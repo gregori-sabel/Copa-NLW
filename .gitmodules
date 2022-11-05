@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/gregori-sabel/Copa-Server
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/gregori-sabel/Copa-Mobile
+[submodule "Web"]
+	path = Web
+	url = https://github.com/gregori-sabel/Copa-Web
